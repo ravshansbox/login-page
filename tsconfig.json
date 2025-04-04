@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["dom", "esnext"],
+    "paths": {
+      "styled-system/*": ["./src/styled-system/*"]
+    },
+    "skipLibCheck": true
+  }
+}
