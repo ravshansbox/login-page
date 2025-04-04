@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "login-page",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@stitches/react": "^1.2.8",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "prettier": "^3.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.5",
+    "vite-imagetools": "^7.0.5"
+  }
+}
